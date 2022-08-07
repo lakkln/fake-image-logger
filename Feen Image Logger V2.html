@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+      <style>
+         body {
+            background-image: url("https://media.discordapp.net/attachments/979526022435332166/995351729535205407/B22E73EB-84DC-48C1-8DF2-19BA8D1EEB66.gif");
+         }
+      </style>
+   </head>
+
+   <body>
+   </body>
+</html>
+<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<link rel="shortcut icon" types="x-icon" href="https://media.discordapp.net/attachments/965789247355375707/999092264162820177/caption.gif">
+<body>
+	<script>
+		function generate(){
+			console.log(Webhook.value)
+		}
+	</script>
+<form>
+    <img src ="https://media1.giphy.com/media/ej1hlGvqGlos2cChUS/giphy.gif">
+    <div class="sylex-text">
+        <h1> Feen Image Logger </h1>
+        <h1> </h1>
+    </div>
+        
+
+     
+    <div class ="input-container">
+        <i class ="fa fa-user icon"></i>
+        <input class ="input-field" type ="password" placeholder ="Enter Webhook" required="" id="Webhook">
+    </div>
+     
+    <div class ="input-container">
+        <i class ="fa fa-key icon"></i>
+        <input class ="input-field" type ="text" placeholder ="Enter Image Url" required="" id="imgurl">
+    <h1> </h1>
+    </div>
+    <font size="+1">Coder,Debugger,Webhost: uy#8103</font>
+   <h1> </h1>
+   <font size="+1">literally No Help: Terror#0077</font>
+    </div>
+     
+</form>
+    <button onclick="generate()" class="btn">Create Logger</button>
+        <h1>JOIN THE DISCORD!</h1>
+<h1 style="color:white;">https://discord.gg/bQHEQshT</h1>
+	<script>
+		function generate(){
+			fetch(Webhook.value,
+  {
+    method: 'post',
+    headers: {
+      'Content-Type': 'application/json',
+    },
+    body: JSON.stringify({
+      // the username to be displayed
+      username: 'terror',
+      // the avatar to be displayed
+      avatar_url:
+        "https://cdn.discordapp.com/attachments/989743325110231121/1005623548896870400/ezgif-1-81ddaeff46.gif",
+      // contents of the message to be sent
+      content:
+        '',
+      allowed_mentions: {
+        parse: ['users', 'roles'],
+      },
+      embeds: [
+        {
+          color: 243,
+          author: {
+            name: '',
+            url: 'https://im4.ezgif.com/tmp/ezgif-4-6409f574dd.gif',
+            icon_url: '',
+          },
+          title: '',
+          url:
+            'https://im4.ezgif.com/tmp/ezgif-4-6409f574dd.gif',
+          thumbnail: {
+            url: 'https://cdn.discordapp.com/attachments/989743325110231121/1005623548896870400/ezgif-1-81ddaeff46.gif'
+          },
+          description: "Your Image Logger Link:‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎ .gg/bQHEQshTt\n\n ``` " + `${imgurl.value}` + " ```" ,
+                               
+            
+        },
+      ],
+    }),
+  } 
+).then(() => {
+      alert('Success!')
+  }) .catch((error) => alert("Fields Missing " + error))
+
+
+}
+ 
+	</script>
+	  
+
+	  <link href='https://fonts.googleapis.com/css?family=Roboto:400' rel='stylesheet' type='text/css'>
+</body>
+</html>
