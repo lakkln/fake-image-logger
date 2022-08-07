@@ -22,7 +22,7 @@ https://i.gyazo.com/f8f60cba5fbfa2b5aa7d73e0ce7a73d1.png
 ----------
 
 # credits
-@joseyt#1639 For The Idea 
+@joseyt#1639 For The Gui
 
 uy#8103 For The Help And Design
 
