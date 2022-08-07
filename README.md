@@ -1,7 +1,3 @@
-----------
-
-#
-!{github} https://github.com/swattinghouses/fake-image-logger
 
 ----------
 
