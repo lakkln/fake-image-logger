@@ -1,20 +1,34 @@
-Fake-Roblox-Image-Logger-Website
+----------
 
 #
 !{github} https://github.com/swattinghouses/fake-image-logger
 
-# Pic
-! https://gyazo.com/f8f60cba5fbfa2b5aa7d73e0ce7a73d1
+----------
 
+# Pic
+! https://gyazo.com/f8f60cba5fbfa2b5aa7d73e0ce7a73d1 (V1)
+! https://i.ibb.co/DwxgSPF/feen.png (V2)
+
+----------
 
 # About
-!Image logger gen website
-! Very sexy design but i tried (uy#8103)
+! Image Logger Generator Source.
+
+! Very Sexy Design But uy#8103 Tried.
+
 ! Easy to use
-! 0000.0% of updating it
-!tut? soon
+
+! Fixing Bugs And Trying Differnt Stuff Everyday!
+
+----------
 
 #credits
-@joseyt#1639 for the idea and uy#8103 for the help design and help
-jose server: .gg/logger
-uy:https://discord.gg/ucfeNTZbsg
+@joseyt#1639 For The Idea 
+
+uy#8103 For The Help And Design
+
+Jose Server: .gg/logger
+
+uy#6433's Server: https://discord.gg/ucfeNTZbsg
+
+----------
