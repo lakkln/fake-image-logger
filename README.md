@@ -14,7 +14,7 @@
 
 ! Easy to use
 
-! Fixing Bugs And Trying Differnt Stuff Everyday!
+! Fixing Bugs And Trying Different Stuff Everyday!
 
 ----------
 
