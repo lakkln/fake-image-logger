@@ -2,9 +2,9 @@
 ----------
 
 # Pic
-! https://gyazo.com/f8f60cba5fbfa2b5aa7d73e0ce7a73d1 (V1)
+! <img src="https://i.gyazo.com/f8f60cba5fbfa2b5aa7d73e0ce7a73d1.png"/></a> (V1)
 
-! https://i.ibb.co/DwxgSPF/feen.png (V2)
+! <img src="https://i.ibb.co/DwxgSPF/feen.png"/></a> (V2)
 
 ----------
 
